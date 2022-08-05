@@ -61,7 +61,11 @@
 .footer-left h1{
     color: white;
 }
+.fa-linkedin:hover{
 
+    color: rgb(7, 73, 131);
+   
+}
 @media(max-width:768px)
 {
     .footerdiv{

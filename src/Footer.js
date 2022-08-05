@@ -9,9 +9,9 @@ function Footer()
             <h1>Game_Parlour</h1>
 
             <div className="social-icons">
-                <a href="https://linkedin.com/in/rahulkushwaha1" target="_blank" rel="noreferrer"><i class="fa-brands fa-linkedin" ></i></a>
-                <Link to=""><i class="fa-solid fa-envelope"></i></Link>
-                <Link to=""><i class="fa-brands fa-instagram"></i></Link>
+                <a href="https://linkedin.com/in/rahulkushwaha1" target="_blank" rel="noreferrer"><i className="fa-brands fa-linkedin" ></i></a>
+                <a href="https://linkedin.com/in/sourav-kumar-308159221/" target="_blank" rel="noreferrer"><i className="fa-brands fa-linkedin" ></i></a>
+               
             </div>
         </div>
 
