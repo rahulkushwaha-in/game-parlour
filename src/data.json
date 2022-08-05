@@ -1,0 +1,503 @@
+[
+    {
+        "id":1,
+        "name":"Randass.io",
+        "image":"../images/img1.webp",
+        "istop":false,
+        "Elink":"https://www.addictinggames.com/embed/html5-games/25162",
+        "category":["All"],
+        "ismobile":false,
+        "description":"Go into the game and get the original randomly generated tank, match it with the perfect build, beat all the players and get the highest score! There are so many different combinations of tanks in this game, each has its own advantage, which you have to uncover and use! Some have large guided drones, some have small ones, some have fast missiles coming out of the cannon, and some have giant and slow but very dangerous bullets."
+    },
+    {
+        "id":2,
+        "name":"Bloon Pop",
+        "image":"../images/img2.webp",
+        "istop":false,
+        "Elink":"https://www.addictinggames.com/embed/html5-games/25151",
+        "category":["All"],
+        "ismobile":true,
+        "description":"Bloon Pop is a free popping game. The balloons are here and they are lined up and ready to pop. Nobody knows just what causes the balloons to line up by color then march their way over to your gate but we do know it is up to you to pop them before they can do anything wrong. Its pretty simple, just line up a shot on the right of the screen and make sure to aim the dart to take out as many of these balloons as is possible. in this game physics is your friend, a friend you can use to accomplish your goals and ambitions by launching a dart square into hearts of all these gathered and aligned balloons. So, aim your dart and let your aim be true. This is a game about devastation and not about sitting around. Just don't sit around and do nothing and you should do better than most. Alas, whatever reason the balloons have gathered is unimportant. All that matters is that you take aim and let them know who is boss. You are boos with your darts."
+    },
+    {
+        "id":3,
+        "name":"Tiny Tank Patrol",
+        "image":"../images/img3.jpg",
+        "istop":true,
+        "Elink":"https://www.addictinggames.com/embed/html5-games/25154",
+        "category":["Shooter","Action","War","All"],
+        "ismobile":false,
+        "description":"Tiny Tank Patrol is a free tank game. Just because these tanks are tiny doesn't mean the fun has to be! That is right, in Tiny Tank Patrol you'll be in command of an entire squad of your own devising. In this game you'll take on small missions to build up your money, your forces, and your experiences. The idea is that you will develop the experience needed and the resources required to constantly upgrade your tanks until they are an indomitable force of pure hate. This is the time of your life when you should be out building tanks and taking on enemies as you devastate the competition and become an all powerful tank-styled warlord. The time is running out and soon you won't be much more than a memory. So, before that all happens, before everything goes wrong, you can have fun in this fascinating tank warfare game. Play as long as you can, show the world what you really have, show them all you can be, and take the world down with you as you raid camps, explode through armor, upgrade your shields and increase the lethality of your shells. This is a big game in a little package and you'll always cherish your memories playing it."
+    },
+    {
+        "id":4,
+        "name":"Pipe Rush",
+        "image":"../images/img4.webp",
+        "istop":true,
+        "Elink":"https://www.addictinggames.com/embed/html5-games/25147",
+        "category":["action","All"],
+        "ismobile":true,
+        "description":"Pipe Rush is a free mobile game.  You can't rush the pipe but the pipe can rush you. These are wise words from some of the elders of the Pipe Rush world. People who have played the pipe and won. You would be smart to listen to them. This is a game that will test your hand-eye reflexes and your ability to spot obstacles then quickly jump out of the way. You might just need that skill set in the real world. It is a good thing we are offering you the chance to test it out now. If you were to ever want to play this game in the real world it is on mobile and that is close enough to the real world now. In fact that is the real world now. Your reality has been warped."
+    },
+    {
+        "id":5,
+        "name":"Stickman Biker",
+        "image":"../images/img5.webp",
+        "istop":false,
+        "Elink":"https://www.addictinggames.com/embed/html5-games/25148",
+        "category":["car","racing","stick","All"],
+        "ismobile":true,
+        "description":"Stickman Biker is a free balance game. Welcome sticks, stickettes, and stox of all ages. We are here to humbly present to you what is without a doubt the ultimate stick-balance game. Now, remember, if you're gonna succeed in the fast-paced, highly competitive world of Stickman Biking then: rev, charge, balance & brake your way to victory.  There isn't a hill you can't climb, a slope you can't overcome or a valley you won't dominate if you master the art of revving up, balancing on the brink, charging the hills and braking when the situation requires it. Stickman Dirt Bike is a smart physics action game that puts your dexterity and puzzle muscles to the test. If you truly want to end each level by fading into the darkness and disappearing to thee great leader-board in the sky, then this is the game you've been waiting for. The first, best, and most played stickman racing game too have ever hit the net."
+    },
+    {
+        "id":6,
+        "name":"Fill",
+        "image":"../images/img6.webp",
+        "istop":true,
+        "Elink":"https://www.addictinggames.com/embed/html5-games/25150",
+        "category":["block","mobile","All"],
+        "ismobile":true,
+        "description":"Fill is a free mobile-puzzle game. All the world is a non-symmetrical grid and all of us are differently colored hues of light that are trying to find their ways around. It sucks! Most of your time will be spent getting lost and going in circles, restarting, and questioning why you're even doing it in the first place. It is thrilling. Fill is a game that will challenge you from the top of your head to the tips of your fingers. As you drag the neon colored lights through the open ended grid you will be reminded of all of life's puzzles and the strategy's and paths we take to overcome them. Just like in life there are twenty levels per phase and a total of 4 phases. Perhaps you can learn to appreciate the challenge and zig-zag your way through the various levels. This is a fun game for fun people and we like to think our players are as fun as the games, so, hey enjoy and have fun. See how far you can get and make it to the to p of the leaderboard."
+    },
+    {
+        "id":7,
+        "name":"Dual",
+        "image":"../images/img7.webp",
+        "istop":false,
+        "Elink":"https://www.addictinggames.com/embed/html5-games/25140",
+        "category":["block","All"],
+        "ismobile":false,
+        "description":"Dual is a free desktop game. When you hear the name of the game you might be thinking 'Duel' as in two different people in some sort of combat. But we actually mean it like 'Dual' meaning two conjoined or related aspects. So, please, if you were expecting some sort of sword or revolver duel then this is not the game for you. If you are interested then strap in, because we think that Dual is even better than a duel. In fact we're willing to bet on it.  Welcome to the Gemini paradox, a problem solved through play. These are the Gemini dots, they are parallel to each other and their fates are entwined forever yet they will never meet. You must activate the Gemini dots in order to allow the passage of a variety of different sized cosmic blocks. This is an essential job for the most experienced of astral engineers. You will be tasked with the noble challenge of moving the stars themselves in order to facilitate the falling cosmic blocks. Beware! Although your work is important it is also dangerous. The falling blocks are lethal to your twin stars and you must not only open a channel for them to fall through but also make sure your twin dots themselves never collide with the blocks for it may mean certain doom. So, go forth and click, spin, rotate your way through a series of space, and time-based challenges. Those of you who are able to survive the longest will have your screen names recorded for posterity in the hallowed halls of our leader board."
+    },
+    {
+        "id":8,
+        "name":"Rotate Your Mind",
+        "image":"../images/img8.webp",
+        "istop":false,
+        "Elink":"https://www.addictinggames.com/embed/html5-games/25122",
+        "category":["puzzle","mobile","All"],
+        "ismobile":true,
+        "description":"Rotate Your Mind is a free puzzle game. We all love squares Squares are the favorite four sided two-dimensional object of over 91% of the population. Whether we use them as tiles in our favorite flooring or as window paines in our favorite holes in the wall one thing is certain: Squares are here to stay. In Rotate Your Mind we take squares to another dimension, the second dimension. After using a proprietary algorithm on our experimental quantum computers to flatten the 6 sides of a bunch of dice into a single side --which we have called a square-- we placed them into a physics puzzle game. In Rotate Your Mind your job is to take control of a jagged, angular shape filled with these squares and rotate it and the screen itself in order to deliver them safely to their destination. It is a game that will test your patience, your resolve, and your fundamental understanding of cause and effect. This is a game of physics and a game of shapes. It is truly a game for kings and queens."
+    },
+    {
+        "id":9,
+        "name":"Rally Point 4",
+        "image":"../images/img9.jpg",
+        "istop":true,
+        "Elink":"https://www.addictinggames.com/embed/html5-games/25119",
+        "category":["car","racing","All"],
+        "ismobile":false,
+        "description":"Rally Point 4 is a free racing game. It is time to rev up and roll out. The city is a drag. The pollution, the people, the 'hurry up and wait' pace: It's enough to drive anyone mad. So, do it: Drive mad! Blast past the city limits and scream into the sand-covered simplicity of the desert. Hit the nitro and drift into the sunset. Rally Point 4 is an open world, sandbox-style driving game. You don't have to worry about the pressure of competing with other players or smashing into dumber, slower-moving cars. Remember, you're here to chill out and ride on. Just put the pedal to the metal and let your troubles slip away into the dry desert air. In this free driving game, you'll have the opportunity to choose one of three cars. Just know that the muscle car is cooler and, really, if you think about it: More thematic."
+    },
+    {
+        "id":10,
+        "name":"Fast Warrior",
+        "image":"../images/img10.webp",
+        "istop":false,
+        "Elink":"https://www.addictinggames.com/embed/html5-games/25118",
+        "category":["endless","adventure","All"],
+        "ismobile":true,
+        "description":"Fast Warrior is a free avoider game. In this game, you are a speedy soldier of fortitude who is becoming a soldier of fury and fame. Fast Warrior is an avoider game where you must balance, run, stab, and pillage upon a razors edge. Wade through dozens of enemies as you dash and dare with all your might. With one hand you will thrust and the other you will grab. Use your trusty sword, pick up health packs. This game is actually a lot of fun and you're gonna like it. So, sharpen those elbows and hey let us go! This is a game of kings, a game of queens, and a game of swords. If you have the grit, the gumption, and the guts maybe you'll be able to turn some of that warriors fury into some warriors fortune. If not you might wind up blown to bits at the boots of your enemies. Either way, you'll probably have a lot of fun getting there and know that we are beside you every step of the way in spirit."
+    },
+    {
+        "id":11,
+        "name":"Box Hero",
+        "image":"../images/img11.webp",
+        "istop":false,
+        "Elink":"https://www.addictinggames.com/embed/html5-games/25114",
+        "category":["block","action","All"],
+        "ismobile":true,
+        "description":"Box Hero is a free avoider game.Box Hero is a game that require player to keep the box floating and get highest score. Target for the diamonds and score high while playing jump box hero go up high as possible. Do not get the box crashed with spikes that are dynamically coming up now and then. Play strategically and keep the box floating as long as you can while not crashing it. Make highest score and share with everyone, challange others on Jump Box Hero!"
+    },
+    {
+        "id":12,
+        "name":"Hydro Storm 2",
+        "image":"../images/img12.jpg",
+        "istop":true,
+        "Elink":"https://www.addictinggames.com/embed/html5-games/25111",
+        "category":["racing","All","shooter"],
+        "ismobile":false,
+        "description":"Hydro Storm 2 is a free racing game. Watch out, here comes the Hydro Storm. We all love Hydro Storm. Who could forget the events of the first Hydro Storm and all of the fun and adventures we had during that game. Now in Hydro Storm 2 you are once again pitted against a storm caused by hydro, which is a reference to water. Many say that there is a storm coming but the truth is that the storm is already here and it has been since the first Hydro Storm. Hydro Storming is a serious threat and we all take it very seriously. So, jump on your jet ski, load your weapons and let's get going. This is not your grandma's Hydro Storm, this is hydro Storm 2, and the stakes have been raised. Are you in or are you out? We will find out when you enter the storm, the hydro storm 2. Hydro Storm 2 is no laughing matter."
+    },
+    {
+        "id":13,
+        "name":"Hold The Balance",
+        "image":"../images/img13.webp",
+        "istop":"false",
+        "Elink":"https://www.addictinggames.com/embed/html5-games/25110",
+        "category":["action","mobile","All"],
+        "ismobile":true,
+        "description":"Hold The Balance is a free balance game. Balance is the most fundamental rule in all of physics. Whether we are talking about your finances, your work/life balance, or your ability to tip tope across a taut rope: Balance is the key. Hold The Balance is a game where you as a human being on Earth are forced to use a canon filled with bouncing balls to fire at the bottom of opposing sides of a platform. Your goal is to keep the platform level and balanced. You will accomplish this by firing at one end of the platform and then again at the other end in order to keep it basically level. This requires a lot of negotiation between your canon, the balls, the platform, and the ancient powers of gravity itself. Switching back and forth between each side of the platform and indeed how many balls and where you fire, you may be able to keep the platform balanced and you may not. There are no guarantees in this game."
+    },
+    {
+        "id":14,
+        "name":"Shifting Jelly",
+        "image":"../images/img14.webp",
+        "istop":false,
+        "Elink":"https://www.addictinggames.com/embed/html5-games/25108",
+        "category":["action","endless","All"],
+        "ismobile":false,
+        "description":"Shifting Jelly is a free endless runner game. There is almost no running in this game. This game is basically a game of sliding but that sliding is technically endless. Well, it is endless as long as you are good at what you do. See, in this game, there are no second chances, there are no hit points, and there are no do-overs. You will only ever get to the end and score the highest possible score if you are good enough to morph your block of jelly to fit through the various doors. As you slide, endlessly, you will come face to face with a bunch of portals, and doorways. Your job is to morph your jelly as fast as you can in order to pass it through the doors. It requires timing, patience, and a keen eye for spacial recognition. This is a game that will test the limits of your limits. Are you as smart as you think you are? We sure hope so. Remember, life is a slideway and you gotta slide it until you die."
+    },
+    {
+        "id":15,
+        "name":"Crazy Ninja",
+        "image":"../images/img15.webp",
+        "istop":false,
+        "Elink":"https://www.addictinggames.com/embed/html5-games/25109",
+        "category":["shooter","All"],
+        "ismobile":true,
+        "description":"Crazy Ninja is a free shooter game. We don't generally like to use a term like 'crazy' but we've known a lot of Ninjas and this ninja is different. This ninja is clearly going through some stuff and believe us when we say 'Crazy' we mean it in a clinical sense. For example, the ninja is obsessed with using throwing stars and shuriken to pop balloons and scary black ghost faces. Your ability to target the ninja and not the spinning platforms or sliding gates is paramount to the ninja's success. this ninja needs you to make the shots if you ever want to make it to the next level, the next challenge, the next moment of your life."
+    },
+    {
+        "id":16,
+        "name":"Parking Puzzle",
+        "image":"../images/img16.webp",
+        "istop":true,
+        "Elink":"https://www.addictinggames.com/embed/html5-games/25105",
+        "category":["puzzle","All"],
+        "ismobile":true,
+        "description":"Parking puzzle is a free puzzle game. Many people say that we live in a concrete jungle. The science on this isn't settled but for the sake of argument let us say that we do indeed live in a concrete jungle. OK well, that would make something like parking really important. That would mean that parking is as important as being a hunter-gatherer or a powerful warrior. This concept is best exemplified in the game Parking Puzzle. Because puzzles are the cerebral versions of feats of strength in the wilderness. OK, so any way in this game you will need to figure out how to park multiple cars in different spaces. The color of the car must match the color of the space they are being parked in and you must do it in the correct order. It is difficult but that is in many ways what makes it fun. So, have fun in this cool puzzle game. Park some cars. It is a true test of your spatial recognition and also your ability to strategize and plan ahead."
+    },
+    {
+        "id":17,
+        "name":"Space Knife",
+        "image":"../images/img17.webp",
+        "istop":false,
+        "Elink":"https://www.addictinggames.com/embed/html5-games/25100",
+        "category":["action","All"],
+        "ismobile":true,
+        "description":"Space Knife is a free endless runner game. In Space, no one can hear you knife. It is as true now as it ever was. And now is the time. The time is now. Here we go. Space Knife. A knife in space. You have been training for this day for years. Your Katana has been let loose in space and you must use the power of your mind to control it. Smash through bubbles, slice up cubes, and let no obstacle stand in your way as you stab, slash, and smash your way through to the center of the universe. This is an endless cutter game where you must cut a swath through a never-ending series of obstacles. Every obstacle, every smash, and every slash is a power move that brings you closer to victory. Up your points and down your enemies as you prove to the whole world that you are the mightiest sword in all the universe. Let no space cubes or galaxy bubbles stand in your way as you cut your way to victory. You are the ultimate knife handler and now you are in space OK. Let's go."
+    },
+    {
+        "id":18,
+        "name":"Burnin' Rubber Crash and Burn",
+        "image":"../images/img18.jpg",
+        "istop":true,
+        "Elink":"https://www.addictinggames.com/embed/html5-games/25103",
+        "category":["racing","car","All"],
+        "ismobile":false,
+        "description":"Burnin' Rubber Crash And Burn is a free racing game. All the world is an arena and we are merely auto-gladiators on the hunt. Rev up and roll out in this pedal to the metal race to the death! This game combines all of the naughty nitro nastiness of racing with the intensity and brutality of your favorite first-person shooters. Blast your way through the competition. Collect money and smash your way through the opposing players as you toggle for position and hope to make enough to buy the best weapons, the fastest cars, and the toughest trucks. A race isn't just a race when you add weapons to the cars, it becomes a slaughter. Nuke the jerk in first and drop some bombs on the suckers behind you as you dodge flaming wrecks and cause pile-ups and meltdowns. This is a game for the violent hierarchies that lives inside all of us and wishes to see nothing but smoke, fire, and lasers. Don't let your enemies catch you slipping and never lay off the trigger."
+    },
+    {
+        "id":19,
+        "name":"Gravity Racer",
+        "image":"../images/img19.webp",
+        "istop":false,
+        "Elink":"https://www.addictinggames.com/embed/html5-games/25095",
+        "category":["racing","action","All"],
+        "ismobile":true,
+        "description":"Gravity Racer is a free racing game. Gravity racer is a classic game of timing and acceleration. You might think you're tough on the ground, you might think you can handle anything but you haven't tussled with gravity. Everything goes upside down when you're you're fighting an X and a Y-axis.  It might be too hard for you and you might realize that flying is for the birds. Sharpen your retinas and crack your knuckles. Keep an eye on your speed, watch your altimeter, don't roll, don't overheat, avoid obstacles and try to keep your cool as you turbo thrust your way through a series of levels that get harder, faster, and more impossible to pass. If you thought a game like the flappy bird was hard to play, you don't know what you're talking about. Welcome to a gravity racing game designed to ruin you. Only the strongest pilots will be able to take on these caves. How long will you be able to withstand gravity? Can you defeat the pull of the natural forces in order to overcome? Will you spend your life trying in vain to devastate the natural order of the universe? Probably! And that is what makes Gravity Racer so much fun."
+    },
+    {
+        "id":20,
+        "name":"Connection",
+        "image":"../images/img20.webp",
+        "istop":true,
+        "Elink":"https://www.addictinggames.com/embed/html5-games/19666",
+        "category":["puzzle","All"],
+        "ismobile":true,
+        "description":"Tiny monsters are all over a square grid. Your job is to draw a line and connect two monsters of the same color. Connecting lines can't cross each other."
+    },
+    {
+        "id":21,
+        "name":"Solitaire 2048",
+        "image":"../images/img21.webp",
+        "istop":false,
+        "Elink":"https://www.addictinggames.com/embed/html5-games/25089" ,
+        "category":["puzzle","card","All"],
+        "ismobile":true,
+        "description":"Solitaire 2048 is a free solitaire game. We are all alone. No matter how many friends you have, how large your family is, and how many Linkedin connections you have, existence is a solitary pursuit. And there is nothing wrong with being alone, in fact, it can be so rewarding that there is an entire genre of games dedicated to the world of being alone and flying solo. That is right, solitaire is a genre of games that are meant to celebrate the full breadth of the human experience, even the parts of it that we do alone. In Solitaire 2048 you will thrill to the adventures of math and its never-ending mission to add numbers together in order to create larger numbers, in order, in fact, to create the number 2048. Sound easy? You're probably thinking 'why sure, why not just add 1024 to 1024, and by golly, you'll have 2048.' Yes, that would be easy but our experts have assured us that it wouldn't be fun. And these guys are smart, that is what we pay them for! They all went to school for this stuff and in many ways, we are indebted to them for their hard work, sacrifice, and progressive vision. Solitaire 2048 is a game where you add cards of a single suit to create a larger number and eventually create a number like say 2048. But here is the thing, you'll be given a bunch of different columns you can add the cards to. It's not just one and that is basically the game."
+    },
+    {
+        "id":22,
+        "name":"Pile Shapes",
+        "image":"../images/img22.webp",
+        "istop":true,
+        "Elink":"https://www.addictinggames.com/embed/html5-games/25090",
+        "category":["stacking","puzzle","All"],
+        "ismobile":true,
+        "description":"Pile Shapes is a free puzzle game. As the shapes rain from the sky, it is your job to mold them into one unified shape and thus gain points. Life is a puzzle and every aspect of it is all about you finding the elements of existence that can fit together and become more than the sum of their parts. This cosmological concept is brilliantly demonstrated in this simple puzzle game. Your job will be to align the diverse spectrum of shapes into the darkened shape in the center of the screen. In this game, you are both a philosopher and a detective. You will be answering the question of the darkened shape by stuffing it full of the colorful pieces of bric-a-brac as the answer. If you consider yourself a fudge-fingered treat addict then you will be happy to know that your sweet tooth is sure to be tickled in this tantalizing game of space vs non-space, good vs less good, and blocks vs the void. This is a game for only the most powerful wizards of the puzzle form."
+    },
+    {
+        "id":23,
+        "name":"Evoworld.io",
+        "image":"../images/img23.webp",
+        "istop":false,
+        "Elink":"https://www.addictinggames.com/embed/html5-games/25091" ,
+        "category":["arena","io games","All"],
+        "ismobile":false,
+        "description":"Evoworld.io is a free IOgame. Evolution is the key to our survival as a species on this planet. It is through this often arduous process that we went from being a single-celled organism to the absolute authority on Earth. But evolution is not a simple process. You do not simply move in a straight line and slowly become more or better of your current state but rather surf the fractures of the timeline, take the ups and the downs, and go toe to toe with other organisms in an attempt to be the dominant species on the planet. In this game, you will begin your life as a small insignificant creature who must struggle to survive, thrive, and evolve. This is a side-scrolling adventure game to which there is no peer. You have never seen anything like this and we're absolutely sure that you'll enjoy it. It is a strange game for strange people in a strange world with bugs, animals, tigers, and flying eagles. This is life. This is gaming."
+    },
+    {
+        "id":24,
+        "name":"Ludo Legend",
+        "image":"../images/img24.webp",
+        "istop":true,
+        "Elink":"https://www.addictinggames.com/embed/html5-games/24864" ,
+        "category":["block","stratergy","puzzle","All"],
+        "ismobile":true,
+        "description":"Ludo Legend is a free puzzle game. Are you ready to try out one of the world s most famous board games? See if youve got what it takes to master Ludo Legend Its one of many Ludo games that you can find online, but this one will let you challenge up to three other players or automated opponents. Can you move your four tokens around the board and get them to your finishing square before one of your opponents does the same with theirs? How to Play Ludo Legend? The goal of Ludo Legend is to get your tokens out of your yard and into an area called the finishing square. Each player has their own based on their tokens color. Roll the dice and see if you can get your tokens to your finishing square before your opponents do!"
+    },
+    {
+        "id":25,
+        "name":"Bulletleague.io",
+        "image":"../images/img25.webp",
+        "istop":true,
+        "Elink":"https://www.addictinggames.com/embed/html5-games/25092",
+        "category":["arena","shooter","io games","All"],
+        "ismobile":false,
+        "description":"Bulletleague.io is a free IOgame.  All the world is a league and we are just the bullets caught in the great arena of life. This is why such a game needed to exist and why we needed to publish it. Bulletleague.io isn't just your average arena shooter, it is the ultimate arena shooter, the kind of arena shooter that songs will be written about and stories will be told about for generations yet to come. Broadly speaking, Bulletleague.io is the ultimate arena shooter with a ton of weapons that players can use to devastate the opposition. We suggest this game for people who have played all the other games like it and enjoyed the basic idea but felt there was something lacking and found themselves asking for more, for better, and for faster bullets in more of a league-like setting. We are confident that this is exactly the kind of game you'll be into playing until your fingers bleed and your thumbs fall to the floor. What are human beings for but to be opposing players in an epic game like this? You'll see, you'll all see in this brilliant and blazing game of bullets and leagues."
+    },
+    {
+        "id":26,
+        "name":"The Jigsaw Puzzle",
+        "image":"../images/img26.webp",
+        "istop":false,
+        "Elink":"https://www.addictinggames.com/embed/html5-games/24895",
+        "category":["mobile","puzzle","All"],
+        "ismobile":true,
+        "description":""
+    },
+    {
+        "id":27,
+        "name":"The Mafia Poker",
+        "image":"../images/img27.webp",
+        "istop":false,
+        "Elink":"https://www.addictinggames.com/embed/html5-games/24865",
+        "category":["card","mobile","strategy","All"],
+        "ismobile":true,
+        "description":"Mafia Poker is a free card game."
+    },
+    {
+        "id":28,
+        "name":"Kids Color Book 2",
+        "image":"../images/img28.webp",
+        "istop":false,
+        "Elink":"https://www.addictinggames.com/embed/html5-games/24952" ,
+        "category":["mobile","All"],
+        "ismobile":true,
+        "description":""
+    },
+    {
+        "id":29,
+        "name":"The Shapes",
+        "image":"../images/img29.webp",
+        "istop":true,
+        "Elink":"https://www.addictinggames.com/embed/html5-games/24940" ,
+        "category":["mobile","high score","All"],
+        "ismobile":true,
+        "description":"Shapes is a free clicker game. In Shapes there are no second chances, there is only your ability to recognize a like-colored laser beam as it sweeps its way towards your pyramid. If you wish to live and continue playing you'll need to spin your triangle either clockwise or counter-clockwise in order to match the color of one of its sides with the color of the incoming beam. This is simple at first but as time wears on the game gets faster and there are beams one after the other. Making the decision to rotate to green clockwise instead of counterclockwise is the exact kind of choice that could spell your doom. This is a game that requires concentration and a mastery of pattern recognition and reflex. Your hand-eye coordination better be fast enough and smart enough to spin the triangle or its curtains. This is a simple, minimalist game that will have you spinning, back-spinning, and trying to match beam to side as if it were an Olympic sport."
+    },
+    {
+        "id":30,
+        "name":"Kids: Cute Pairs",
+        "image":"../images/img30.webp",
+        "istop":false,
+        "Elink":"https://www.addictinggames.com/embed/html5-games/24870",
+        "category":["match","All"],
+        "ismobile":true,
+        "description":"Kids Cuter pairs is a fun matching game."
+    },
+    {
+        "id":31,
+        "name":"Boxing Stars",
+        "image":"../images/img31.webp",
+        "istop":false,
+        "Elink":"https://www.addictinggames.com/embed/html5-games/25051",
+        "category":["All","boxing"],
+        "ismobile":false,
+        "description":""
+    },
+    {
+        "id":32,
+        "name":"Solitaire Legend",
+        "image":"../images/img32.webp",
+        "istop":true,
+        "Elink":"https://www.addictinggames.com/embed/html5-games/24867",
+        "category":["strategy","card","stacking","All"],
+        "ismobile":true,
+        "description":""
+    },
+    {
+        "id":33,
+        "name":"Battleships Armada",
+        "image":"../images/img33.webp",
+        "istop":false,
+        "Elink":"https://www.addictinggames.com/embed/html5-games/24885",
+        "category":["strategy","arcade","All"],
+        "ismobile":true,
+        "description":""
+    },
+    {
+        "id":34,
+        "name":"Fams Word Search Classic",
+        "image":"../images/img34.webp",
+        "istop":false,
+        "Elink":"https://www.addictinggames.com/embed/html5-games/24946",
+        "category":["puzzle","mobile","high score","All"],
+        "ismobile":true,
+        "description":"Word Search Classic is a free word game."
+    },
+    {
+        "id":35,
+        "name":"Minesweeper Mania",
+        "image":"../images/img35.webp",
+        "istop":false,
+        "Elink":"https://www.addictinggames.com/embed/html5-games/24887",
+        "category":["strategy","puzzle","mobile","All"],
+        "ismobile":true,
+        "description":"Minesweeper Mania is a free puzzle game."
+    },
+    {
+        "id":36,
+        "name":"Rafting Adventures",
+        "image":"../images/img36.webp",
+        "istop":false,
+        "Elink":"https://www.addictinggames.com/embed/html5-games/25049",
+        "category":["adventure","action","All"],
+        "ismobile":true,
+        "description":"Rafting Adventures is a free avoider game. Rafting is an adventure made more fun by being an endless runner-style game. Yes, endless runners are fun but they're also a challenge for those of us who are used to games with definitive beginning middle, and an end.  The object of the game is to paddle as far as you can and as fast as you can without hitting a rock and thus dying. This risk-reward proposition is a big part of what makes endless runners so heckin' cool. They can be really fun, really addictive, and really frustrating. Rafting Adventures is an avoider and endless runner game where your only goal is to collect rubber duckies and stay alive. It is a sub-genre of platformers where you have to avoid obstacles and collect duckies without getting killed. There's also no time limit, so you're free to take as long as you want while collecting rubber duckies to boost your score. That's what makes this kind of game so hard — there is no time limit or health system, so when you die you die. There are no second chances and no one is coming to save you. It makes you truly feel the pressure because it's so easy to make mistakes.Rafting Adventures is a game that, as the name suggests, turns rafting into an adventure. An endless adventure of avoidance and collecting things.  You play a rafter who is  dodging your way through a hostile environment. The object of the game is to raft along for as long as possible collecting ducks without dying. As you raft through the game, it becomes more difficult but also more rewarding. Show us what you got!"
+    },
+    {
+        "id":37,
+        "name":"Spotting The Difference",
+        "image":"../images/img37.webp",
+        "istop":false,
+        "Elink":"https://www.addictinggames.com/embed/html5-games/24893",
+        "category":["mobile","All"],
+        "ismobile":true,
+        "description":"Spot The Difference is a free difference game. Wow, another difference game. Truly the inmates have taken over the asylum. What must we be thinking, we're nuts, we're crazy, or maybe we just love difference games that much. Spotting the Difference is a puzzle game where you must spot the differences between two images. No, were not pranking you like its April first and you're a bright eyes student on their way to class. In every level, there are truly small and subtle are differences between the two images you are seeing. Some of the differences may be obvious, but others wont be easy to catch. Check every nook and cranny before throwing in the towel, and taking a hint. Your score is determined by the amount of time you take to solve the puzzle. The faster you solve it, the better your score. Wrong guesses and hints add time to your score. Play quickly and become one of the top players of this online puzzle game. Tune in every day for a new puzzle to solve! You can join Shockwave Unlimited, our sister site if you want to play more puzzle games."
+    },
+    {
+        "id":38,
+        "name":"Chess Mania",
+        "image":"../images/img38.webp",
+        "istop":true,
+        "Elink":"https://www.addictinggames.com/embed/html5-games/25061",
+        "category":["puzzle","mobile","All"],
+        "ismobile":true,
+        "description":"Chess Mania is a free chess puzzle. Like many things in life including life itself, chess is both a game and a puzzle. There is nothing more satisfying than trying to find your way through the puzzles and the hardships of life than by using the lessons learned from playing chess. Specifically, the lessons learned from playing this chess game. Which is a game designed to test the limits of your sanity, your strategy, and your tactics. How many moves ahead do you think you can realistically think before you start to go a little batty? We think you'll like this chess game because it teaches the fundamentals of chess but in a fun way that also lets, you look at the game in a whole new way. If you have played chess before and enjoyed it but for whatever reason, you have been away from playing the game for a while, then we are absolutely convinced that this game and its series of challenges will somehow train you, brain you, and fully explain to you the magic of chess. Remember, learn to play, play to learn, and then take those skills out into the real world where being good at stuff matters (apparently). OK thank you for reading and playing."
+    },
+    {
+        "id":39,
+        "name":"Knife Hit",
+        "image":"../images/img39.webp",
+        "istop":false,
+        "Elink":"https://www.addictinggames.com/embed/html5-games/24900",
+        "category":["arcade","shooter","mobile","All"],
+        "ismobile":true,
+        "description":"Knife Hit is a free clicker game. This is a knife throwing game and it is a target game that  is just as interesting as other target-style games. Knife Hit is free and offers a lot of entertainment and fun, especially when you are playing mobile. You can play the game in your free time, during recess, on a bus or or during holidays to kill boredom. This game very easy to play, but it requires some level of expertise for you to win. However, the more you play, the better you get, the better you get the more you'll want to play. Practice, have a steady hand or clicker finger and then get cling. The world is melting so you might as well throw some knives. Knife Hit is a fun and fast-paced game that requires precision and accuracy. You toss a knife at a spinning log and attempt to land it in the center of the spinning wood. You only get one chance to miss per turn. Just like in real life, Knife Hit is not dangerous if you follow the rules and stay on target. "
+    },
+    {
+        "id":40,
+        "name":"Craftz.io",
+        "image":"../images/img40.webp",
+        "istop":false,
+        "Elink":"https://www.addictinggames.com/embed/html5-games/25069",
+        "category":["tank","io games","All"],
+        "ismobile":false,
+        "description":"Craftz.io is a free IOgame.d to win and win to build. This is a game about the struggle to create, the struggle to live, and the struggle to persevere in a world of violence and alienation. The other crafters are bent on your destruction they will create a weapon that is absolutely optimized to find your weaknesses then exploit them and then ultimately destroy your craft. But don't worry because you can do the same thing. You can optimize your craft to be the most dangerous and aesthetic weapon on the battlefield. Now yes, this game is two-dimensional and you will be fighting other players by simply moving side to side but within that matrix, there is a lot of room for you to grow, develop skills, and triumph over your competitors. Make custom weapons, armor your vehicle, and choose from dozens of blade weapons, blunt weapons, and projectile weapons. This is a game for the most powerful players in the game, those who don't do what they build. Kill em all and let the scoreboard sort it out in Craftz.io a unique multiplayer iogame."
+    },
+    {
+        "id":41,
+        "name":"Field Of Fury",
+        "image":"../images/img41.webp",
+        "istop":true,
+        "Elink":"https://www.addictinggames.com/embed/html5-games/25075",
+        "category":["shooter","io games","war","All"],
+        "ismobile":false,
+        "description":"Fields Of Fury is a free IOgame. Welcome to the deadly world of fields of fury. It is a fun first-person shooter where you can choose between three roles with one goal: survive. This is a cool war game, in fact, this just might be our favorite war game, the graphics are next level, and thus you will experience intense fighting in a second world war zone to eventually gain the ultimate honor. Fileds of Furys is fun to play and easy to control. You will experience an incredible virtual reality world of war and survival. There are three different types of weapons in this game, and those different weapons will be indicative of your particular role. Slam into some rifles, automatic rifles, and bazookas. You can choose your favorite weapon to start a war to win honor for yourself. The game has one amazing map to challenge you and your abilities which makes it more challenging, interesting, and fun. There are a ton of soldiers in enemy territory waiting for you to attack and take 'em down. Don't worry about your life because as you'll see glory is far more important. If you lose all your health in battle, you can find your way to Valhall to brag of your accomplishments in the mortal realm. In order to win this war game, you'll need to move fast, move smart, shoot first, and shoot to win. Good luck."
+    },
+    {
+        "id":42,
+        "name":"Hello Love",
+        "image":"../images/img42.jpg",
+        "istop":false,
+        "Elink":"https://www.addictinggames.com/embed/html5-games/24985",
+        "category":["mobile","All"],
+        "ismobile":true,
+        "description":""
+    },
+    {
+        "id":43,
+        "name":"Tic Tack Toe",
+        "image":"../images/img43.webp",
+        "istop":true,
+        "Elink":"https://www.addictinggames.com/embed/html5-games/24898",
+        "category":["strategy","arcade","mobile","All"],
+        "ismobile":true,
+        "description":"Tic Tac Toe is a free puzzle game. Just like in real life all it takes to win is three in a row. That is it. just line up your exes and your ohs and let's see what you got. This is a game about out-thinking your opponent and maybe even becoming your opponent after you defeat them in the sacred grid of ceremonial magic. If you truly believe in your heart and soul that you have what it takes to align your X's in such a way that you are able to trick your opponent into giving up the upper hand then we believe this is the game for you. All we ask is that you sit down, crack your knuckles, sharpen your flicking finger and prepare to enter a world of excitement, a world of adventure, a world of X's, and a world of O's. Tic Tac Toe is a generations-old drama that everyone knows how to play but nobody knows how to master."
+    },
+    {
+        "id":44,
+        "name":"Rally Point 2",
+        "image":"../images/img44.webp",
+        "istop":true,
+        "Elink":"https://www.addictinggames.com/embed/html5-games/25030",
+        "category":["car","racing","All"],
+        "ismobile":false,
+        "description":"Rally Point 2 is a free racing game. You may have played race games before but you have never played a racing game like this before. In Rally Point 2 you will be taking the very concept of racing to the next level by racing in a Mini Cooper. The Mini Cooper is a classic car that many people love and enjoy and now you will be experiencing it in all of its glory as a free racing game on one of your favorite free gaming sites. Rally Point 2 is fully loaded with a whole slew of new cars for you to unlock and master in your pursuit of absolute excellence in video gaming. We think you will love all of the nitro-infused gaming present in this racing game as you upgrade your car, unlock new tracks and new cars, beat your own time, and set all the records possible. We dare you not to love this game."
+    },
+    {
+        "id":45,
+        "name":"Burnin Rubber 5 XS",
+        "image":"../images/img45.jpg",
+        "istop":true,
+        "Elink":"https://www.addictinggames.com/embed/html5-games/25031",
+        "category":["racing","war","car","All"],
+        "ismobile":false,
+        "description":"Burning' Rubber 5 is a free race game. All the world is an arena and we are merely auto-gladiators on the hunt. Rev up and roll out in this pedal to the metal race to the death! Burnin' Rubber 5 combines all of the naughty nitro nastiness of racing with the intensity and brutality of your favorite first-person shooters. Blast your way through the competition as you upgrade, customize, and jack up your cars with Gatling guns, rocket launchers, flame-throwers, and lightning-soaked energy weapons! Collect money and smash your way through the opposing players as you toggle for position and hope to make enough to buy the best weapons, the fastest cars, and the toughest trucks. A race isn't just a race when you add weapons to the cars, it becomes a slaughter. Nuke the jerk in first and drop some bombs on the suckers behind you as you dodge flaming wrecks and cause pile-ups and meltdowns. This is a game for the violent hierarchist that lives inside all of us and wishes to see nothing but smoke, fire, and lasers. Don't let your enemies catch you slipping and never lay off the trigger."
+    },
+    {
+        "id":46,
+        "name":"Fruit Slot Machine",
+        "image":"../images/img46.webp",
+        "istop":false,
+        "Elink":"https://www.addictinggames.com/embed/html5-games/25053",
+        "category":["block","puzzle","All"],
+        "ismobile":true,
+        "description":"Fruit Slot Machine is a free casino game.  Welcome to a world of competitive fruit growing where strawberries and cherries fall flip through the reels and land face up on your screen. Slam down on the slot machine and watch the columns whirl. Try to line up the different items in a variety of rows, columns, and patterns in order to win big. This slots game isn't just dumb luck. It takes real skill to pull down, release, watch and wait for the items you need to appear in the order you want. Hyperfocus on the spinning wheels, daydream of watermelons and apples as your will forces the luck of the game. This is a magical spin through a fruit section filled with mystical creatures and fantasy surprises. Try to gain bonuses and get combos as you make your way to the top of our leader board. Challenge your friends to beat you at the five columns of chance. Match up the items you need to score big and gain upgrades."
+    },
+    {
+        "id":47,
+        "name":"Parkour Climb",
+        "image":"../images/img47.webp",
+        "istop":false,
+        "Elink":"https://www.addictinggames.com/embed/html5-games/25036",
+        "category":["action","endless","All"],
+        "ismobile":false,
+        "description":"Parkour Climb s a free clicker game. In some cities, the buildings are so tall it feels like they never end. They just go up and up forever, in an endless race to a horizon that is perpetually just out of reach. If you've ever seen these buildings from the ground floor there might be a part of you that wishes you could see the peak. There is just something about a challenge so far away that pulls us in. In the old days, our adventurers climb mountains. Now we climb buildings and we do it with aplomb. For, any person could scurry up the side of a building like an errant spider or a writhing cockroach. It takes true style and a real flair for the dramatic to dance your way to the top, to use a little Parkour to make the journey seem that much more fun. On your way you might encounter force fields, jet packs, and other power-ups. Use them as much as you need. It is a hard journey and you will need all of the help you can get. Get climbing in this fast-paced endless-runner that puts you in the middle of the screen and the center of the world."
+    },
+    {
+        "id":48,
+        "name":"Samurai Rampage",
+        "image":"../images/img48.webp",
+        "istop":false,
+        "Elink":"https://www.addictinggames.com/embed/html5-games/25033",
+        "category":["fighting","action","All"],
+        "ismobile":true,
+        "description":"Samurai Rampage is a free platform game. Known for their patience, their virtue, and their steadfast dedication to discipline and order, one must ask what could truly make a samurai rage? We promise you that you will find out in our new game 'Samurai Rampage.' In Samurai Rampage you will become a furious fighter who is hell-bent on slaying an army of the evil undead. Demons have risen and they are not happy! Sharpen your sword and store up your rage for a lightning-fast run through a never-ending dojo in this point and click, tap or you'll miss it assault on bad guys and boredom. The little demons' faces are groaning and growling to get your attention, each more wicked and evil than the last. You'll have to strike first and strike hard if you want to defeat the grizzly army of grinning gremlins. Build up your rage-o-meter in order to properly strike them down. Do not falter and do not fail for your mission is of utmost importance. If you were to fall then who would stand against the demons of the deep?"
+    },
+    {
+        "id":49,
+        "name":"Enthusiast Drift Rivals",
+        "image":"../images/img49.jpg",
+        "istop":true,
+        "Elink":"https://www.addictinggames.com/embed/html5-games/25013",
+        "category":["car","racing","All"],
+        "ismobile":false,
+        "description":"Enthusiast Drift Rivals is a free desktop racing game. All drift everything. Drift it up and drift it down, drift it all around. You have been given our permission to drift it here and also to drift it now. The most important thing is to drift as you mean it, drift with enthusiasm. In Enthusiast Drift Racing you will technically be racing but if you are smart you will also be drifting. Drifting is a huge part of racing and it is the element that sets this game apart from other games where you are also racing and yes sometimes also drifting. This very well might be the last racing game you ever play because of the car selection, drift functionality, and overall vibe of the whole game. If you like racing games then by default you probably like drifting games and since this is a drifting game we are pretty confident that you will like it as well. So, without any further fanfare or talking, we have decided to let you sit back, rev your motors and drift till your heart's content."
+    },
+    {
+        "id":50,
+        "name":"Parking Tight",
+        "image":"../images/img50.webp",
+        "istop":false,
+        "Elink":"https://www.addictinggames.com/embed/html5-games/25008",
+        "category":["puzzle","mobile","block","All"],
+        "ismobile":true,
+        "description":"Parking Tight is a free puzzle game. In the modern world, the only thing that truly matters is space and time. Specifically, the space to park your cool vehicle and hopefully the time to do it. Sometimes in order to park properly things are going to get a little tight. Parking Tight is a spatial puzzle where you compete against a lack of space and irregularly shaped sectors in order to fit your multiple cars into the proper spaces. This is a puzzle game where there is only one specific answer for each level. In order to finish the level and move on you'll have to accurately park the cars. Finding the answer is hard and it may take a fair amount of trial and error. Timing is important because obviously being faster at something is basically the same as being better at it. So, we wish you the best of luck in this skill-based puzzle game where space is limited and time is always running out."
+    }
+    
+]
