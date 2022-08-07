@@ -1,6 +1,4 @@
 import React, { useState, useEffect } from "react";
-// import { ReactDOM } from "react";
-// import Card from "./components/card";
 import data from "./data.json";
 import{useParams} from "react-router-dom";
 import styled from "styled-components";
@@ -14,7 +12,6 @@ function filterById(jsonObject, id)
        
 function Playmode()
 {    useEffect(() => {
-    // 👇️ scroll to top on page load
     window.scrollTo({top: 0, left: 0, behavior: 'smooth'});
   }, []);
     const {id}= useParams();
@@ -34,7 +31,6 @@ function Playmode()
         <>
         {isFullScreen? null : <Navbar/>}
         <Maincontainer>
-        {/* {singledata.ismobile===false ? alert("please use on bigger size screen for smoother experience" ): null  } */}
         <Container>
         <div className={showplaybutton?"play-button":"active"}> 
             <img src={singledata.image} alt=""/>

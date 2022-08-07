@@ -67,7 +67,7 @@ function Navbar({ placeholder }){
           
                     <input
                       type="text"
-                      placeholder={placeholder}
+                      placeholder="Search..."
                       value={wordEntered}
                       onChange={handleFilter}
                       className="searchInputs"
@@ -85,12 +85,6 @@ function Navbar({ placeholder }){
       )}
          
     </div>
-
-           
-
-            <Link to="#" className="search-icon" onClick={()=>setshowserach(!showsearch)}>
-                <i className="fas fa-search"></i>
-            </Link>
         </nav>  
             </>  
     )

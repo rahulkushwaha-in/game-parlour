@@ -1,4 +1,3 @@
-// import './App.css';
 import Navbar from './navbar';
 import Card from './components/card';
 import styled from "styled-components";
@@ -11,16 +10,11 @@ function Home() {
   }, []);
 
 
-  const exitDetailHandler = (e) => {
-    
-    if(document.body.classList.contains("dataResult")){
-      document.body.classList.remove("dataResult");
-    }
-  };
+ 
   return (
     <>
-    <div className="home-body" onClick={exitDetailHandler}>
-    <Navbar placeholder="search..."  />
+    <div className="home-body">
+    <Navbar placeholder="Search..."  />
   
     <Container>
     <h1>Top Rated</h1>
