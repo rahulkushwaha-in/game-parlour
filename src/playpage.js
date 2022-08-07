@@ -185,6 +185,9 @@ position: relative;
      }
     }
 }
+@media(max-width:550px){
+    top:10vh;
+}
 
 @media(max-width:460px){
     .play-button{
@@ -204,6 +207,7 @@ position: relative;
 
 
 }
+
  
  
 

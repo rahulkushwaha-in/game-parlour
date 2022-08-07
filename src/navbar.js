@@ -62,7 +62,7 @@ function Navbar({ placeholder }){
                 </ul>
             </div>
 
-            <h2 className="webname">Game_Parlour</h2>
+            <Link to="/" style={{textDecoration:"none"}}><h2 className="webname">Game_Parlour</h2></Link>
             <div className={showsearch?"right search-active":"right"}> 
           
                     <input
@@ -85,6 +85,9 @@ function Navbar({ placeholder }){
       )}
          
     </div>
+            <Link to="#" className="search-icon" onClick={()=>setshowserach(!showsearch)}>
+                <i className="fas fa-search"></i>
+            </Link>
         </nav>  
             </>  
     )
