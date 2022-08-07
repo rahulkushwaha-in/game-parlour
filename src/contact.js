@@ -1,11 +1,12 @@
 import React from "react";
 import "./css/contactUs.scss";
 import Navbar from "./navbar";
+import{useParams} from "react-router-dom";
 function Contactus() {
+  const {id}= useParams();
+  console.log(id);
     const Card = props => (
         <div className="card">
-          {/*<div className="waves">
-          </div>*/}
           {props.children}
         </div>
       );

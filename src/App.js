@@ -11,7 +11,7 @@ function App() {
       <Routes>
         <Route exact path="" element={<Home/>}></Route>
         <Route path="/game/:id" element={<Playpage/>}></Route>
-        <Route path="/contact" element={<Contactus/>}> </Route>
+        <Route path="/contact/" element={<Contactus/>}> </Route>
       </Routes>
       <Footer/>
     </BrowserRouter>

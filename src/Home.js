@@ -1,18 +1,27 @@
 // import './App.css';
-
 import Navbar from './navbar';
 import Card from './components/card';
 import styled from "styled-components";
 import TopRatedCard from './components/topRatedCard';
 import { useEffect } from 'react';
-// import Data from "./data.json";
+
 function Home() {
   useEffect(() => {
     window.scrollTo({top: 0, left: 0, behavior: 'smooth'});
   }, []);
+
+
+  const exitDetailHandler = (e) => {
+    
+    if(document.body.classList.contains("dataResult")){
+      document.body.classList.remove("dataResult");
+    }
+  };
   return (
     <>
-    <Navbar/>
+    <div className="home-body" onClick={exitDetailHandler}>
+    <Navbar placeholder="search..."  />
+  
     <Container>
     <h1>Top Rated</h1>
     <div className='card-section'>
@@ -25,14 +34,15 @@ function Home() {
     <Card />
     </div>
   </Container>
+    </div>
     </>
- 
   );
   
 }
 const Container=styled.div`
    width:100%;
    margin:0 auto;
+  //  filter: brightness(1.1);
    h1{
     // margin-left: 2rem;
     margin-top:4rem;

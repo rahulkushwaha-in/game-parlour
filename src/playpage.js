@@ -5,9 +5,10 @@ import data from "./data.json";
 import{useParams} from "react-router-dom";
 import styled from "styled-components";
 import Navbar from "./navbar";
+
 function filterById(jsonObject, id) 
 {return jsonObject.filter(function(jsonObject) 
-    {return (jsonObject['id'] == id);})[0];
+    {return (jsonObject['id'] === parseInt(id));})[0];
 }
 
        
@@ -33,7 +34,7 @@ function Playmode()
         <>
         {isFullScreen? null : <Navbar/>}
         <Maincontainer>
-
+        {/* {singledata.ismobile===false ? alert("please use on bigger size screen for smoother experience" ): null  } */}
         <Container>
         <div className={showplaybutton?"play-button":"active"}> 
             <img src={singledata.image} alt=""/>
@@ -48,7 +49,7 @@ function Playmode()
         
         <div className="iframeHolder">
 
-            {isFullScreen ? <iframe title = {singledata.name} className="fullScreenMode" src={singledata.Elink} Scrolling="no" frameBorder="0"></iframe> : null }
+            {isFullScreen ? <iframe title = {singledata.name} className="fullScreenMode" src={singledata.Elink} scrolling="no" frameBorder="0"></iframe> : null }
             
         </div>
         </Container>
