@@ -18,7 +18,7 @@ function Footer()
         <div className="footer-right">
             <ul>
                 <li><Link to="">About</Link></li>
-                <li><Link to="">Contact</Link></li>
+                <li><Link to="/contact">Contact</Link></li>
                 <li><Link to="">Policy</Link></li>
             </ul>
         </div>
