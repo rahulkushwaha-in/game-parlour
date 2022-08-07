@@ -206,7 +206,7 @@
     .right{
         position: fixed;
         right: 100%;
-        top:9vh;
+        top:5rem;
         width: 100%;
         margin: auto;
         transition: right 0.2s ease-in;
@@ -226,7 +226,7 @@
         /* top:5rem; */
         position: fixed;
         z-index: 8;
-        top:17vh;
+        top:5rem;
     }
     .dataResult {
         top:8rem;
