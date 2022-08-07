@@ -29,8 +29,8 @@ function Playmode()
     
     return(
         <>
-        {isFullScreen? null : <Navbar/>}
         <Maincontainer>
+        {isFullScreen? null : <Navbar/>}
         <Container>
         <div className={showplaybutton?"play-button":"active"}> 
             <img src={singledata.image} alt=""/>
@@ -62,6 +62,10 @@ function Playmode()
     )
 };
 const Maincontainer=styled.div`
+.right {
+  
+    visibility: hidden;
+}
 .gamedetails{ 
     width:85%;
     margin:auto;

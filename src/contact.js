@@ -2,6 +2,7 @@ import React from "react";
 import "./css/contactUs.scss";
 import Navbar from "./navbar";
 import{useParams} from "react-router-dom";
+import styled from "styled-components";
 function Contactus() {
   const {id}= useParams();
   console.log(id);
@@ -134,17 +135,24 @@ function Contactus() {
       
 
     return (
-        <>
-        <Navbar/>
+        <Maincontainer>
         <div id="app">
+        <Navbar className="navbar"/>
         <Contact/>
         </div>
         
-        </>
+        </Maincontainer>
     )
 
 }
 
+const Maincontainer = styled.div`
+
+.right {
+  
+  visibility: hidden;
+};
+`
 
 
 
