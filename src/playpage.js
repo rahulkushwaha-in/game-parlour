@@ -186,7 +186,7 @@ position: relative;
     }
 }
 @media(max-width:550px){
-    top:10vh;
+    top:5.5vh;
 }
 
 @media(max-width:460px){
