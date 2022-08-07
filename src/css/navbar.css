@@ -204,7 +204,7 @@
     }
     
     .right{
-        position: absolute;
+        position: fixed;
         right: 100%;
         top:9vh;
         width: 100%;
@@ -213,6 +213,7 @@
     }
     .right input{
         width: 70%;
+        /* position: fixed; */
     }
     
     .search-icon
@@ -225,7 +226,7 @@
         /* top:5rem; */
         position: fixed;
         z-index: 8;
-        top:9vh;
+        top:17vh;
     }
     .dataResult {
         top:8rem;
