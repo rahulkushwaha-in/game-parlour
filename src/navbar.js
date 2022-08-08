@@ -17,8 +17,9 @@ function Navbar({ placeholder }){
     const newFilter = data.filter((value) => {
       return (
         value.name.toLowerCase().includes(searchWord.toLowerCase()) ||
-        value.category[0].toLowerCase().includes(searchWord.toLowerCase()) ||
-        value.description.toLowerCase().includes(searchWord.toLowerCase())
+        value.category[0].toLowerCase().includes(searchWord.toLowerCase()) 
+        // ||
+        // value.description.toLowerCase().includes(searchWord.toLowerCase())
         );
     });
 
