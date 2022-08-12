@@ -15,11 +15,11 @@ function TopRatedCard()
                 d.istop === true && (
                 <NavLink key={d.id} to={`game/${d.id}`} style={{textDecoration:"none",color:"black"}} >  
                <Card1>
-               
+                 
             <div className="card-img"><img src={d.image} alt="" /></div>
             <div className="card-detail">
+           
                 <h4>{d.name}</h4>
-               
                 <p>{d.category + " "}</p>
             </div>
         </Card1>

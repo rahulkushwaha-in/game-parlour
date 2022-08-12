@@ -31,6 +31,9 @@ function Playmode()
         <>
         <Maincontainer>
         {isFullScreen? null : <Navbar/>}
+        {singledata.ismobile === false &&(
+                    <h4 className="onlydesktop">This game is Only for Desktop</h4>)
+            }
         <Container>
         <div className={showplaybutton?"play-button":"active"}> 
             <img src={singledata.image} alt=""/>
@@ -51,7 +54,7 @@ function Playmode()
         </Container>
         
         <div className="gamedetails">
-
+            
             <h3>- {singledata.name}</h3>
             <h2>Game Description : </h2>
             <p>{singledata.description}</p>
@@ -65,6 +68,10 @@ const Maincontainer=styled.div`
 .right {
   
     visibility: hidden;
+}
+.onlydesktop{
+    text-align:center;
+    padding-top:1.5rem;
 }
 .gamedetails{ 
     width:85%;
@@ -88,10 +95,11 @@ const Maincontainer=styled.div`
     font-family: 'Roboto Mono', monospace;
 }
 
+
 `;
 
 const Container=styled.div`
-top:1.2rem;
+top:.5rem;
 position: relative;
 
 .iframeHolder{
@@ -190,7 +198,7 @@ position: relative;
     }
 }
 @media(max-width:550px){
-    top:5.5vh;
+    top:.5vh;
 }
 
 @media(max-width:460px){
