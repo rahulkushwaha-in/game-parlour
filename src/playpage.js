@@ -62,10 +62,10 @@ function Playmode()
     )
 };
 const Maincontainer=styled.div`
-.right {
+// .right {
   
-    visibility: hidden;
-}
+//     visibility: hidden;
+// }
 .gamedetails{ 
     width:85%;
     margin:auto;

@@ -148,10 +148,10 @@ function Contactus() {
 
 const Maincontainer = styled.div`
 
-.right {
+// .right {
   
-  visibility: hidden;
-};
+//   visibility: hidden;
+// };
 `
 
 

@@ -77,7 +77,7 @@ function Navbar({ placeholder }){
         <div className="dataResult">
           {filteredData.map((value, key) => {
             return (
-              <NavLink className="dataItem" key={value.id} to={`game/${value.id}`} >
+              <NavLink className="dataItem" key={value.id} to={`/game/${value.id}`} >
                 <p>{value.name}</p>
               </NavLink>
             );
