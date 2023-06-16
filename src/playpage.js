@@ -65,19 +65,14 @@ function Playmode()
     )
 };
 const Maincontainer=styled.div`
-// .right {
+${'' /* .right {
   
-
-//     visibility: hidden;
-// }
-=======
     visibility: hidden;
-}
+} */}
 .onlydesktop{
     text-align:center;
     padding-top:1.5rem;
 }
-
 .gamedetails{ 
     width:85%;
     margin:auto;
@@ -118,9 +113,9 @@ position: relative;
 }
 .frame{
     /* display: none; */
-     width: 80%;
+     width: 100%;
      margin : 0 10%;
-     height: 80vh;
+     height: 50vh;
     //  max-width: 100%!important;
     //  max-height: 100vh!important; 
     //  height: 100%!important;
@@ -171,13 +166,13 @@ position: relative;
 
  .fullScreenMode{
     width:100%;
-    height:100vh;
+    height:100%;
     position:fixed;
     left:0;
     top:0;
     max-width: 100%!important;
-    max-height: 100vh!important; 
-    height: 100%!important;
+    ${'' /* max-height: 100%!important;  */}
+    height: 120%!important;
  }
 
 @media(max-width:768px)
@@ -226,7 +221,7 @@ position: relative;
 }
 
  
- 
+
 
 `;
 
